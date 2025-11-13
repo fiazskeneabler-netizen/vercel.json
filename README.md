@@ -1,5 +1,4 @@
-# vercel.json
-#10 repositor{
+{
   "rewrites": [
     {
       "source": "/",
